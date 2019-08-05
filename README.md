@@ -4,7 +4,7 @@
 
 This is app that I created with help from mentors from Kiwi. It's using API endpoints of one transport provider and shows all possible iternary for chosen combination of source, destination and day.
 My app is using Redis as in-memory database for caching API data. I've also used 
-## What I Learned
+## What I've Learned
 * how to work with APIs in Python
 * how to use virtual enviroment
 * how to use Flask
